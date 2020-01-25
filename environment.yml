@@ -16,3 +16,4 @@ dependencies:
   - cudatoolkit
  ### You can add more below in the same format (eg. - packagename)
   - opencv
+  - pillow
